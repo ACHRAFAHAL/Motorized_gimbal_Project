@@ -17,6 +17,9 @@ Power supply (battery)
 
 Lm2596 DC-DC regulator
 
+## circuit :
+![image](https://github.com/user-attachments/assets/afaf3914-628d-4651-ab55-0aba4a27d40f)
+
 ## Key Features:
 Uses combined accelerometer and gyroscope data for stable orientation estimation. Adjusts motor positions based on feedback from the IMU sensors to stabilize the payload. Real-time sensor data processing ensures smooth stabilization with minimal delay.
 
