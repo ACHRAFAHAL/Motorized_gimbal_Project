@@ -8,8 +8,11 @@ The project is a gimbal system created using an Arduino platform to stabilize a 
 
 ## Components Used:
 Arduino NANO board
+
 MPU6050 IMU sensors (Accelerometer and Gyroscope) for motion detection
+
 Motors (servomotors: MG996R) for controlling the pitch, yaw, and roll axes
+
 Power supply (battery)
 
 
