@@ -23,7 +23,7 @@ Lm2596 DC-DC regulator
 ## Key Features:
 Uses combined accelerometer and gyroscope data for stable orientation estimation. Adjusts motor positions based on feedback from the IMU sensors to stabilize the payload. Real-time sensor data processing ensures smooth stabilization with minimal delay.
 
-# Challenges & Solutions:
+## Challenges & Solutions:
 Sensor Calibration: Ensured proper calibration of the MPU6050 for accurate readings.
 Angle estimation : Eliminating the drift and noise of the estimated angles signal.
 Motor Control: Fine-tuned motor response to avoid overshooting and ensure precise stabilization.
