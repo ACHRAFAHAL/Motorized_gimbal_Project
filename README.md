@@ -15,6 +15,7 @@ Motors (servomotors: MG996R) for controlling the pitch, yaw, and roll axes
 
 Power supply (battery)
 
+Lm2596 DC-DC regulator
 
 ## Key Features:
 Uses combined accelerometer and gyroscope data for stable orientation estimation. Adjusts motor positions based on feedback from the IMU sensors to stabilize the payload. Real-time sensor data processing ensures smooth stabilization with minimal delay.
