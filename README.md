@@ -5,8 +5,8 @@ Motorized 3-axis gimbal using Arduino! This project stabilizes cameras with gyro
 
 ## Project Overview:
 The project is a gimbal system created using an Arduino platform to stabilize a mounted payload (camera) and maintain its orientation. The gimbal compensates for external movements, ensuring smooth, stable footage or data collection.
-![image]([https://github.com/user-attachments/assets/afaf3914-628d-4651-ab55-0aba4a27d40f](https://github.com/ACHRAFAHAL/Motorized_gimbal_Project/blob/main/sysml/Use%20case%20diagram.png))
-![image]([https://github.com/user-attachments/assets/afaf3914-628d-4651-ab55-0aba4a27d40f](https://github.com/ACHRAFAHAL/Motorized_gimbal_Project/blob/main/sysml/req%20diagram.png))
+![image](https://github.com/user-attachments/assets/afaf3914-628d-4651-ab55-0aba4a27d40f](https://github.com/ACHRAFAHAL/Motorized_gimbal_Project/blob/main/sysml/Use%20case%20diagram.png))
+![image](https://github.com/user-attachments/assets/afaf3914-628d-4651-ab55-0aba4a27d40f](https://github.com/ACHRAFAHAL/Motorized_gimbal_Project/blob/main/sysml/req%20diagram.png))
 ## Components Used:
 ![image](https://github.com/ACHRAFAHAL/Motorized_gimbal_Project/blob/main/sysml/Block%20Definition%20Diagram.png))
 
