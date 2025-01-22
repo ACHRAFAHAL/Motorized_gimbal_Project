@@ -8,7 +8,7 @@ The project is a gimbal system created using an Arduino platform to stabilize a 
 ![image]([https://github.com/user-attachments/assets/afaf3914-628d-4651-ab55-0aba4a27d40f](https://github.com/ACHRAFAHAL/Motorized_gimbal_Project/blob/main/sysml/Use%20case%20diagram.png))
 ![image]([https://github.com/user-attachments/assets/afaf3914-628d-4651-ab55-0aba4a27d40f](https://github.com/ACHRAFAHAL/Motorized_gimbal_Project/blob/main/sysml/req%20diagram.png))
 ## Components Used:
-![image]([https://github.com/user-attachments/assets/afaf3914-628d-4651-ab55-0aba4a27d40f](https://github.com/ACHRAFAHAL/Motorized_gimbal_Project/blob/main/sysml/Block%20Definition%20Diagram.png))
+![image](https://github.com/ACHRAFAHAL/Motorized_gimbal_Project/blob/main/sysml/Block%20Definition%20Diagram.png))
 
 [Arduino NANO board](https://www.amazon.com/LAFVIN-Board-ATmega328P-Micro-Controller-Arduino/dp/B07G99NNXL/ref=sr_1_1?crid=BFC4M23UDME9&dib=eyJ2IjoiMSJ9.6QPRL9EGieCqVheJYNSvYLiNSaIKqAuyrl-iTXMnEEFnoPjKLQRyOFdkdBUTrvQ1zplyvGeIZ4oi-K5SLso7Bxtwd-eY0-WxvNcv7afrlNnAro9WHJALr3apcBQgHmIEP4BiT0vJ5RBpYjB2-KuAmaooARQIQM9z9zOdqVlyO8JsHFVojahkz-pPtvUc0MnzNa09et1eFhPjpCz_RcJxPNiukp_0FndT4OWpmLW0DFA.hxrgePKQpUjJKMrh7PDBkT5qkBD8YoEURtovGlqHnYg&dib_tag=se&keywords=Arduino+Nano&qid=1734113262&sprefix=arduino+nano%2Caps%2C150&sr=8-1)
 
